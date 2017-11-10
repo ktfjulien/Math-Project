@@ -1,0 +1,65 @@
+J:\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe.config
+J:\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe
+J:\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.pdb
+J:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csprojResolveAssemblyReference.cache
+J:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.MathClass.resources
+J:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Properties.Resources.resources
+J:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Quadratic.resources
+J:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csproj.GenerateResource.Cache
+J:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.exe
+J:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.pdb
+I:\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe.config
+I:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.exe
+I:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.pdb
+I:\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe
+I:\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.pdb
+I:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csprojResolveAssemblyReference.cache
+I:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.MathClass.resources
+I:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Properties.Resources.resources
+I:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Quadratic.resources
+I:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csproj.GenerateResource.Cache
+I:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.RightAngleTrigonometry.resources
+J:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Cubic.resources
+F:\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe.config
+F:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.exe
+F:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.pdb
+F:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Cubic.resources
+F:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.MathClass.resources
+F:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Properties.Resources.resources
+F:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Quadratic.resources
+F:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csproj.GenerateResource.Cache
+K:\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe.config
+K:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.exe
+K:\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.pdb
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csprojResolveAssemblyReference.cache
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Cubic.resources
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.MathClass.resources
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Properties.Resources.resources
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Quadratic.resources
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csproj.GenerateResource.Cache
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.exe
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.pdb
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe.config
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.pdb
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\EntityFramework.dll
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\EntityFramework.SqlServer.dll
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\EntityFramework.xml
+A:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe.config
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.exe
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\Math Project.pdb
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\EntityFramework.dll
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\EntityFramework.xml
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csprojResolveAssemblyReference.cache
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Cubic.resources
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.MathClass.resources
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Properties.Resources.resources
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math_Project.Quadratic.resources
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csproj.GenerateResource.Cache
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.exe
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.pdb
+E:\Flash Drive Backup\Visual Studio Projects\Math Project\Math Project\obj\Debug\Math Project.csproj.CoreCompileInputs.cache
